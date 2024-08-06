@@ -1,9 +1,0 @@
-export POSTGRES_USERNAME=datnt164
-export POSTGRES_PASSWORD=Eochanghy1412
-export POSTGRES_HOST=udagram.cvpiqyseyqdf.us-east-1.rds.amazonaws.com
-export POSTGRES_DB=postgres
-export AWS_BUCKET=datnt164-udagram
-export AWS_REGION=us-east-1
-export AWS_PROFILE=default
-export JWT_SECRET=testing
-export URL=http://localhost:8080
